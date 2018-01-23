@@ -1,8 +1,10 @@
 ---
-title: "about"
+title: "About Greg"
 output: html_document
 ---
 
-About me
+I am a PhD candidate doing research on ... 
+
+I currently have projects in Bangladesh, Kenya, and India.  
 
 

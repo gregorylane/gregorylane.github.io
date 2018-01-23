@@ -1,7 +1,13 @@
 ---
-title: "Greg Lane"
+title: "Gregory Lane"
 output: html_document
 ---
 
-Hello
+<br>
+
+Greg is a PhD candidate at UC Berkeley in [Agriculture and Resource Economics](https://are.berkeley.edu/). His primary resear
+
+
+(figures/headshot.jpg)
+
 
