@@ -5,7 +5,7 @@ output: html_document
 <br>
 
 
-My office is in Giannini Hall, Room 324 on UC Berkeley's campus
+My office is in Giannini Hall, Room 324 
 
 **Email:** gregory `dot` lane `at` berkeley `dot` edu
 
