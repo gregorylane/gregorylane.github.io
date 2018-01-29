@@ -5,9 +5,17 @@ output: html_document
 
 <br>
 
-Greg is a PhD candidate at UC Berkeley in [Agriculture and Resource Economics](https://are.berkeley.edu/). His primary resear
+
+<div style= "float:left; position: relative; top: -5px; left: -10px; margin: 0 0 0 0.75em">
+![](photos/headshot2_small.jpg)
+</div>
+
+## PhD Candidate
+
+Greg is a PhD candidate at UC Berkeley in [Agriculture and Resource Economics](https://are.berkeley.edu/). His primary research area is development economics and current research focuses on innovations in finance and technology in developing countries. He is interested in using microdata, randomized experiments, and data science to explore these topics.  
+
+Please find my contact information [here](https://gregoryvlane.com/contact.html)
 
 
-(figures/headshot.jpg)
 
 

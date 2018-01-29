@@ -1,0 +1,11 @@
+---
+title: "Contact Greg"
+output: html_document
+---
+<br>
+
+
+My office is in Giannini Hall, Room 324 on UC Berkeley's campus
+
+**Email:** gregory `dot` lane `at` berkeley `dot` edu
+
