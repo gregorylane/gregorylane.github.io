@@ -8,7 +8,7 @@ navbar:
     - text: "About"
       href: about.html
     - text: "Contact"
-      href: contact.htlm
+      href: contact.html
 
 output:
   html_document:
