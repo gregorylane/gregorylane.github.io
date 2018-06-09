@@ -4,7 +4,7 @@ output: html_document
 ---
 <div>
 
-### <em> Credit Lines as Insurance: Evidence from Bangladesh </em>
+#### <em> Credit Lines as Insurance: Evidence from Bangladesh </em>
 **Job Market Paper**
 
 *Abstract:*
@@ -12,11 +12,22 @@ It is well established that households use credit lines to insure themselves aga
 
 <br/>
 
-### <em> Mitigating Market Frictions by Monitoring Employees in Small and Medium-sized Enterprises: A Field Experiment in Kenya's Public Transport Sector </em>
+#### <em> Mitigating Market Frictions by Monitoring Employees in Small and Medium-sized Enterprises: A Field Experiment in Kenya's Public Transport Sector </em>
 *(with Erin Kelley, David Schoenholzer, and Peter Wagacha Waiganjo)*
 
 *Abstract:*
 This paper introduces an innovative monitoring technology among small and medium- sized enterprises (SMEs) in Kenya’s public transportation sector. We study the impact of providing information about employee behavior to the firm on contract structure, productivity and negative externalities. Specifically, we work with 300 minibus owners in Nairobi, Kenya fitting their vehicles with monitoring devices recording high- frequency data on productivity and safety performance of drivers. We provide owners in the treatment group with information on driver effort and output in real-time via a sophisticated mobile application. Owners in the control group are not provided with any information until the study period is over. We cross-randomize this first treatment with a second intervention at the driver level, designed ease negative externalities pro- duced by the contract structure. We directly paid treatment drivers to improve their safety performance while driving their matatu. We find that information provision in- creased firm productivity while leading to increases in both owner and driver incomes. Providing owners information on driving behavior had no effect on safety indicators, however explicit cash incentives were effective in reducing speeding and sharp braking events.
+
+<br/>
+
+### Works in Progress
+
++ *The Value of Safe Driving: Evidence from Kenya's Public Transport Sector (with Erin Kelley and David Schoenholzer)*
+
++ *Space for Growth: Evaluating Child Friendly Spaces in Refugee Camps (with Erin Kelley and Eric Mvukiyehe)*
+
++ *How Important are Vocational Training Certificates in the Search for Employment in India? (with Teevrat Garg and Erin Kelley)*
+
 
 </div>
 
