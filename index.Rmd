@@ -12,9 +12,11 @@ output: html_document
 
 ## PhD Candidate
 
-Greg is a PhD candidate at UC Berkeley in [Agriculture and Resource Economics](https://are.berkeley.edu/). His primary research area is development economics and current research focuses on innovations in finance and technology in developing countries. He is interested in using microdata, randomized experiments, and data science to explore these topics.  
+I am a PhD candidate at UC Berkeley in [Agriculture and Resource Economics](https://are.berkeley.edu/). My primary research area is development economics and current research focuses on innovations in finance and technology in developing countries. I am interested in using microdata, randomized experiments, and data science to explore these topics. I currently have research projects in Bangladesh, Kenya, and India.   
 
-Please find my contact information [here](https://gregoryvlane.com/contact.html)
+Before attending UC Berkeley, I earned a MS in Applied Economics from Cornell University and a BA in Economics and International Relations from Tufts University. I also spent four years working for Abt Associates on USAID funded development programs in South Sudan, Ghana, and Mozambique.
+
+My CV can be found [here](pdfs/CV_Lane_June2018.pdf) and my contact information [here](https://gregoryvlane.com/contact.html)
 
 
 

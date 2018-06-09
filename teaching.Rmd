@@ -1,0 +1,20 @@
+---
+title: "Teaching"
+output: html_document
+---
+
+<div>
+### UC Berkeley
++ Introductory Applied Econometrics, *UC Berkeley Summer Session, 2017*
++ Applied Econometrics, *Spring 2016*
++ Development Economics, *Fall 2015*
+
+<br/>
+
+### Cornell University
++ Managerial Economics, *Spring 2013*
++ International Trade and Finance, *Fall 2012*
+
+</div>
+
+

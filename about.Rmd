@@ -3,11 +3,11 @@ title: "About Greg"
 output: html_document
 ---
 
-I am a PhD candidate in Applied Economics at UC Berkeley. My primary research area is development economics. My current research focuses on innovations in finance and technology in developing countries. I currently have research projects in Bangladesh, Kenya, and India.  
+I am a PhD candidate in Applied Economics at UC Berkeley. My primary research area is development economics. My current research focuses on innovations in finance and technology in developing countries. 
 
-Before attending UC Berkeley, I earned a MS in Applied Economics from Cornell University and a BA in Economics and International Relations from Tufts University. I also spent three years working for Abt Associates on USAID funded development programs in South Sudan, Ghana, and Mozambique.
 
-I enjoy  
+
+My CV can be found [here](pdfs/CV_Lane_June2018.pdf)
 
 
 
