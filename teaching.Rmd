@@ -19,7 +19,7 @@ output: html_document
 
 <br/>
 
-*Sample of teaching evaluations [here](pdfs/lane_course_eval2.pdf) and [here](pdfs/lane_course_eval1.pdf)*
+*Sample teaching evaluations [here](pdfs/lane_course_eval2.pdf) and [here](pdfs/lane_course_eval1.pdf)*
 
 
 
