@@ -1,0 +1,32 @@
+---
+title: "EPP 118: Introductory Econometrics"
+output: html_document
+---
+
+<div>
+<br/>
+<p>
+This course material was created for an eight week course during UC Berkeley's 2017 Summer Session. Please read the [syllabus](pdfs/metrics/Syllabus_Greg.pdf) for an overview. Slides from specific lectures are linked below.  
+</p>
+
+<br/>
+
+#### Slides
+
++ [Introduction](pdfs/metrics/Lecture1_slides.pdf)
++ [Math and Stat Review](pdfs/metrics/Lecture2_slides.pdf)
++ [Introduction to Regression](pdfs/metrics/Lecture3_slides.pdf)
++ [Estimators and Beta hat](pdfs/metrics/Lecture4_slides.pdf)
++ [Omitted Variable Bias](pdfs/metrics/Lecture5_slides.pdf)
++ [Hypothesis Testing I](pdfs/metrics/Lecture6_slides.pdf)
++ [Hypothesis Testing II](pdfs/metrics/Lecture7_slides.pdf)
++ [Standardization and Confidence Intervals](pdfs/metrics/Lecture8_slides.pdf)
++ [Dummy Variables and Interactions](pdfs/metrics/Lecture9_slides.pdf)
++ [Impact Evaluation I](pdfs/metrics/Lecture10_slides.pdf)
++ [Impact Evaluation II](pdfs/metrics/Lecture11_slides.pdf)
++ [Impact Evaluation III](pdfs/metrics/Lecture12_slides.pdf)
++ [Logit, Probit, and LPM](pdfs/metrics/Lecture13_slides.pdf)
+
+</div>
+
+

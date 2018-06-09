@@ -5,7 +5,9 @@ output: html_document
 
 <div>
 ### UC Berkeley
-+ Introductory Applied Econometrics, *UC Berkeley Summer Session, 2017*
++ Introductory Applied Econometrics, *UC Berkeley Summer Session 2017*
+    + [Course Materials](metrics.html)
+  
 + Applied Econometrics, *Spring 2016*
 + Development Economics, *Fall 2015*
 

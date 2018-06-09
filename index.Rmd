@@ -16,7 +16,7 @@ I am a PhD candidate at UC Berkeley in [Agriculture and Resource Economics](http
 
 Before attending UC Berkeley, I earned a MS in Applied Economics from Cornell University and a BA in Economics and International Relations from Tufts University. I also spent four years working for Abt Associates on USAID funded development programs in South Sudan, Ghana, and Mozambique.
 
-My CV can be found [here](pdfs/CV_Lane_June2018.pdf) and my contact information [here](https://gregoryvlane.com/contact.html)
+My CV can be found [here](pdfs/CV_Lane_June2018.pdf) and my contact information [here](contact.html)
 
 
 
