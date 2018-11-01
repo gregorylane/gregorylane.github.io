@@ -11,7 +11,7 @@ output: html_document
 In the absence of insurance markets, theory suggests that households can use credit to protect themselves against adverse income shocks. However, in many developing countries access to credit in the aftermath of shocks is scarce as negatively affected households are frequently denied loans. In this paper, I test whether a new financial product that offers guaranteed credit access after a shock allows households to insure themselves against risk. To this end, I run a large scale RCT involving 300,000 subjects in Bangladesh with one of the country's largest microcredit institutions. Microfinance clients were randomly pre-approved for loans that are made available in the event of local flooding. I show that this unique type of microcredit improves household welfare through two channels: an ex-ante insurance effect where households increase investment in risky production and an ex-post effect where households are better able to maintain consumption and asset levels after a shock. I also document that households value this product, taking costly action to preserve their guaranteed access. Importantly, extension of this additional credit improves loan repayment rates and MFI profitability, suggesting that this product can be sustainably extended to households already connected to microcredit networks.
 <br/>
 
-#### <em> Mitigating Market Frictions by Monitoring Employees in Small and Medium-sized Enterprises: A Field Experiment in Kenya's Public Transport Sector </em>
+#### <em> [The Impact of Monitoring Technologies on Contracts and Employee Behavior: Experimental Evidence from Kenya’s Matatu Industry](pdfs/JMP_Kelley.pdf) </em>
 *(with Erin Kelley, David Schoenholzer, and Peter Wagacha Waiganjo)*
 
 *Abstract:*
