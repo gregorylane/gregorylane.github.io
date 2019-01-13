@@ -20,3 +20,5 @@ output:
     theme: cosmo
     highlight: textmate
     css: styles.css
+    includes:
+       in_header: GA_Script.html
