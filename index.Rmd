@@ -13,8 +13,7 @@ includes:
 </div>
 
 <div>
-## Assistant Professor of Economics
-## American University
+## Assistant Professor of Economics <br> American University
 
 I will be starting as an Assistant Professor of Economics at [American University](https://www.american.edu/cas/economics/) in the Fall of 2019. 
 
@@ -22,9 +21,6 @@ I am graduating from UC Berkeley with a PhD in [Agriculture and Resource Economi
 
 Previously, I earned a MS in Applied Economics from Cornell University and a BA in Economics and International Relations from Tufts University. I also spent four years working for Abt Associates on USAID funded development programs in South Sudan, Ghana, and Mozambique.
 
-<br/>
-
-I am currently on the Job Market and will be available for interviews at the 2019 ASSA meeting in Atlanta and at the 2018 CEEE in Toronto. My CV can be found [here](pdfs/CV_Lane_June2018.pdf) and my contact information [here](contact.html)
 
 </div>
 
