@@ -3,7 +3,7 @@ title: "About Greg"
 output: html_document
 ---
 
-I am a PhD candidate in Applied Economics at UC Berkeley. My primary research area is development economics. My current research focuses on innovations in finance and technology in developing countries. 
+I am an Assistant Professor in the Department of Economics at American University. My primary research area is development economics. My current research focuses on innovations in finance and technology in developing countries. 
 
 
 

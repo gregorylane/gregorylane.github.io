@@ -13,11 +13,14 @@ includes:
 </div>
 
 <div>
-## PhD Candidate
+## Assistant Professor of Economics
+## American University
 
-I am a PhD candidate at UC Berkeley in [Agriculture and Resource Economics](https://are.berkeley.edu/). My primary research area is development economics and current research focuses on innovations in finance and technology in developing countries. I am interested in using microdata, randomized experiments, and data science to explore these topics. I currently have research projects in Bangladesh, Kenya, and India.   
+I will be starting as an Assistant Professor of Economics at [American University](https://www.american.edu/cas/economics/) in the Fall of 2019. 
 
-Before attending UC Berkeley, I earned a MS in Applied Economics from Cornell University and a BA in Economics and International Relations from Tufts University. I also spent four years working for Abt Associates on USAID funded development programs in South Sudan, Ghana, and Mozambique.
+I am graduating from UC Berkeley with a PhD in [Agriculture and Resource Economics](https://are.berkeley.edu/). My primary research area is development economics and current research focuses on innovations in finance and technology in developing countries. I am interested in using microdata, randomized experiments, and data science to explore these topics. I currently have research projects in Bangladesh, Kenya, and India.   
+
+Previously, I earned a MS in Applied Economics from Cornell University and a BA in Economics and International Relations from Tufts University. I also spent four years working for Abt Associates on USAID funded development programs in South Sudan, Ghana, and Mozambique.
 
 <br/>
 
