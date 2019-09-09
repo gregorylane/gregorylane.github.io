@@ -3,11 +3,11 @@ title: "About Greg"
 output: html_document
 ---
 
-I am an Assistant Professor in the Department of Economics at American University. My primary research area is development economics. My current research focuses on innovations in finance and technology in developing countries. 
+I am an Assistant Professor in the Department of Economics at American University. My primary research area is development economics. My current research focuses on innovations in finance and technology, and labor markets in developing countries.
 
 
 
-My CV can be found [here](pdfs/CV_Lane_June2018.pdf)
+My CV can be found [here](pdfs/CV_Lane_June2019.pdf)
 
 
 
