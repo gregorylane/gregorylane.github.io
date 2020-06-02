@@ -7,7 +7,7 @@ output: html_document
 #### <em> [Credit Lines as Insurance: Evidence from Bangladesh](pdfs/JMP_Lane.pdf) </em>
 
 *Abstract:*
-In the absence of insurance markets, theory suggests that households can use credit to protect themselves against adverse income shocks. However, in many developing countries access to credit in the aftermath of shocks is scarce as negatively affected households are frequently denied loans. In this paper, I test whether a new financial product that offers guaranteed credit access after a shock allows households to insure themselves against risk. To this end, I run a large scale RCT involving 300,000 subjects in Bangladesh with one of the country's largest microcredit institutions. Microfinance clients were randomly pre-approved for loans that are made available in the event of local flooding. I show that this unique type of microcredit improves household welfare through two channels: an ex-ante insurance effect where households increase investment in risky production and an ex-post effect where households are better able to maintain consumption and asset levels after a shock. I also document that households value this product, taking costly action to preserve their guaranteed access. Importantly, extension of this additional credit improves loan repayment rates and MFI profitability, suggesting that this product can be sustainably extended to households already connected to microcredit networks.
+Theory suggests that households without insurance can use credit to protect themselves against adverse income shocks. However, concerns about default risk often prevent institutions from lending to people affected by negative shocks. This effectively creates a positive correlation between current income and credit availability. Using a randomized control trial, I show that a new financial tool that decouples credit access from income realizations allows households to better insure themselves against income risk. The product guarantees credit to households in the event of a weather shock, and was offered to 300,000 micro-finance clients in Bangladesh. I find that access to this product improves household welfare through two channels: an ex-ante insurance effect, whereby households increase their investments in risky production; and an ex- post effect, whereby households are better able to maintain consumption and asset levels after a shock. Repayment is high and the loan is profitable for the lender – showing that MFI’s concern about default risk does not limit the product’s commercial viability.
 <br/>
 
 #### <em> [The Impact of Monitoring Technologies on Contracts and Employee Behavior: Experimental Evidence from Kenya’s Matatu Industry](pdfs/JMP_Kelley.pdf) </em>
@@ -26,9 +26,10 @@ Agency theory suggests that moral hazard in employer–employee contracting cons
 
 + *The Psychosocial Impacts of Forced Idleness in Refugee Camps (with Erin Kelley, Reshmaan Hussam, and Fatima Tuz Zahra)*   
 
-+ *Online Marketplaces and Reducing Barriers for Small Firms (with Erin Kelley and Matthew Pecenco)* 
++ *Online Marketplaces and Reducing Barriers for Small Firms (with Erin Kelley, Matthew Pecenco, and Edward Rubin)* 
++ *Soft Skills, Job Information, and Social Networks (with Gaurav Chiplunkar and Erin Kelley)*
 
-+ *How Important are Vocational Training Certificates in the Search for Employment in India? (with Teevrat Garg, Maulik Jagnani, and Erin Kelley)*
++ *Evaluating the Returns to High-Quality Employees in Firms (with Victorio Bassi and Erin Kelley)*
 
 </div>
 
