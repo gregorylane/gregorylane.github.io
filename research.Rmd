@@ -18,6 +18,13 @@ Agency theory suggests that moral hazard in employer–employee contracting cons
 
 <br/>
 
+#### <em> [Which jobs are lost during a lockdown? Evidence from vacancy postings in India](pdfs/CKL_Covid_July2020.pdf) </em>
+*(with Gaurav Chiplunkar and Erin Kelley)*
+
+*Abstract*
+We rely on real-time data from India's second largest job portal to study how COVID-19 (and the associated lockdown measures) impacted the Indian labor market. Detailed firm-level vacancy postings on location, industries, occupations and job characteristics allow us to document three facts that suggest a dramatic contraction in hiring, especially for young, less-educated and female job-seekers. First, we observe a substantial decline in the total number of new vacancies posted and the number of firms that post at least one job. Second, we see an increase in jobs that can be completed from home and fewer jobs in occupations that can be easily automated. Finally, we find evidence that certain job-seekers are more affected than others, as employers post fewer entry-level jobs, require higher levels of experience and education, and advertise fewer jobs in female-dominated occupations.
+<br/>
+
 ### Works in Progress
 
 + *The Value of Safe Driving: Evidence from Kenya's Public Transport Sector (with Erin Kelley and David Schoenholzer)*
