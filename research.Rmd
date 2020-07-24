@@ -15,13 +15,12 @@ Theory suggests that households without insurance can use credit to protect them
 
 *Abstract:*
 Agency theory suggests that moral hazard in employer–employee contracting constrains firm profits. We use a randomized controlled trial to empirically evaluate how information and communication technologies (ICT) can mitigate moral hazard and enable firms to design more efficient contracts which increase profits and engender business growth. Specifically, we study a fleet of 255 minibuses (matatus) in Nairobi, Kenya, where we introduce monitoring devices that track real-time vehicle location, daily productivity, and safety statistics. We randomize whether minibus owners have access to these monitoring data through a novel mobile app. The information we provide to owners in the treatment group allows them to observe a more precise signal of driver effort, the amount of revenue collected in fares, and the extent to which the driver engages in damaging driving. We find that this information treatment allows vehicle owners to modify the terms of the contract by decreasing the rental price they demand. Drivers respond by exerting more effort, decreasing behavior that damages the vehicle, and under-reporting revenue by less, leading to an overall increase in firm profitability and facilitating investments in additional buses. Finally we investigate whether these gains to the company come at the expense of passenger safety, which is already at risk in an industry with frequent accidents. While we do not find any evidence that conditions deteriorate, offering detailed information on driving behavior also does not improve safety. Only by incentivizing drivers through an additional cash treatment do we detect safety improvements.
-
 <br/>
 
 #### <em> [Which jobs are lost during a lockdown? Evidence from vacancy postings in India](pdfs/CKL_Covid_July2020.pdf) </em>
 *(with Gaurav Chiplunkar and Erin Kelley)*
 
-*Abstract*
+*Abstract:*
 We rely on real-time data from India's second largest job portal to study how COVID-19 (and the associated lockdown measures) impacted the Indian labor market. Detailed firm-level vacancy postings on location, industries, occupations and job characteristics allow us to document three facts that suggest a dramatic contraction in hiring, especially for young, less-educated and female job-seekers. First, we observe a substantial decline in the total number of new vacancies posted and the number of firms that post at least one job. Second, we see an increase in jobs that can be completed from home and fewer jobs in occupations that can be easily automated. Finally, we find evidence that certain job-seekers are more affected than others, as employers post fewer entry-level jobs, require higher levels of experience and education, and advertise fewer jobs in female-dominated occupations.
 <br/>
 
