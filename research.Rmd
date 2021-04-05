@@ -22,11 +22,11 @@ We develop a relational contracting model to study the role of monitoring in fir
 <br/>
 
 
-#### <em> The Psychosocial Impacts of Forced Idleness in Refugee Camps </em> 
+#### <em> [The Psychosocial Impacts of Forced Idleness in Refugee Camps](pdfs/employment.pdf) </em> 
 *(with Erin Kelley, Reshmaan Hussam, and Fatima Tuz Zahra)*
 
 *Abstract:*
-Social scientists have long posited that employment may deliver psychological util- ity beyond the value of income alone. Existing literature, however, suffers from prob- lems of selection into employment and an inability to disentangle the pecuniary and non-pecuniary mechanisms driving wellbeing. This paper presents a real-world causal estimate of the psychosocial benefits of employment in the Rohingya refugee camps of Bangladesh. We engage 745 individuals in a field experiment with three arms: (1) a control arm, in which no work is offered; (2) a cash arm, in which no work is offered but a weekly fee is provided; and (3) a gainful employment arm, in which work is offered and individuals are paid weekly the approximate equivalent of that in the cash arm. Building on existing observations in psychology, we further investigate the causal roles of past trauma and future uncertainty in mediating the impact of employment on psychosocial wellbeing.
+In settings where employment opportunities are scarce, the inability to work may generate psychosocial harm. This paper presents a causal estimate of the psychosocial value of em- ployment in the Rohingya refugee camps of Bangladesh. We engage 745 individuals in a field experiment with three arms: (1) a control arm, (2) a weekly cash arm, and (3) a gainful employ- ment arm, in which work is offered and individuals are paid weekly the approximate equivalent of that in the cash arm. We find that employment confers significant psychosocial benefits be- yond the impacts of cash alone, with effects concentrated among males. The cash arm does not improve psychosocial wellbeing, despite the provision of cash at a weekly amount that is more than twice the amount held by recipients in savings at baseline. Consistent with these findings, we find that 66% of those in our work treatment are willing to forego cash payments to instead work for free. Our results have implications for social protection policies for the unemployed in low income countries and refugee populations globally.
 
 *Accepted via pre-results review at* Journal of Development Economics
 <br/>
