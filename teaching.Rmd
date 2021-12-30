@@ -6,8 +6,9 @@ output: html_document
 <div>
 
 ### American University
-+ Economic Development (Undergraduate level), *Fall 2019*
-+ Development Microeconomics (PhD level), *Fall 2019*
++ Economic Development (Undergraduate level), *2019, 2020*
++ Development Microeconomics (PhD level), *2019, 2020, 2021*
++ Labor Economics (Masters level), *2020*
 
 <br/>
 
@@ -23,11 +24,6 @@ output: html_document
 ### Cornell University
 + Managerial Economics, *Spring 2013*
 + International Trade and Finance, *Fall 2012*
-
-<br/>
-
-*Sample teaching evaluations [here](pdfs/lane_course_eval2.pdf) and [here](pdfs/lane_course_eval1.pdf)*
-
 
 
 </div>
