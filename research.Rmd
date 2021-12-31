@@ -30,9 +30,10 @@ This paper examines whether moral hazard is a meaningful barrier to firm product
 *Abstract:*
 In settings where an individual’s labor choices are constrained, the inability to work may generate psychosocial harm. This paper presents a causal estimate of the psychosocial value of employment in the Rohingya refugee camps of Bangladesh. We engage 745 individuals in a field experiment with three arms: (1) a control arm, (2) a weekly cash arm, and (3) a gainful employment arm, in which work is offered and individuals are paid weekly the approximate equivalent of that in the cash arm. Compared to both the control and cash arms, the employment treatment generates significant improvements in psychosocial wellbeing. We find no evidence that cash alone improves psychosocial wellbeing, despite the provision of cash at a weekly amount that is more than twice the amount held by recipients in savings at baseline. Consistent with these findings, we find that 66% of those in our work treatment are willing to forego cash payments to instead work for free. Our results have implications for social protection policies for the unemployed in low income countries and refugee populations globally.
 
+*Revision Requested* American Economic Review
+
 *Accepted via pre-results review at* Journal of Development Economics 
 
-*Revision Requested* American Economic Review
 <br/>
 <br/>
 
