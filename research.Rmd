@@ -23,7 +23,6 @@ This paper examines whether moral hazard is a meaningful barrier to firm product
 <br/>
 <br/>
 
-
 #### <em> [The Psychosocial Value of Employment](pdfs/employment.pdf) </em> 
 *(with Erin Kelley, Reshmaan Hussam, and Fatima Tuz Zahra)* 
 
@@ -33,9 +32,42 @@ In settings where an individual’s labor choices are constrained, the inability
 *Revision Requested* American Economic Review
 
 *Accepted via pre-results review at* Journal of Development Economics 
+<br/>
+<br/>
+
+#### <em> [Pre-Analysis Plan: The value of forecasts: Experimental evidence from developing-country agriculture](pdfs/India_Forecasts_PAP.pdf) </em> 
+*(with Fiona Burlig, Amir Jina, Erin Kelley, and Harshil Sahai)* 
+
+*Abstract:*
+Climate risk is a key driver of low agricultural productivity in poor countries. We use a cluster-randomized trial to evaluate a novel risk-mitigation approach: long-range forecasts that provide information about the onset of the Indian summer monsoon well in advance of its arrival. In contrast to traditional ex post risk coping approaches, this novel ex ante technology provides accurate information significantly before the monsoon’s arrival, enabling farmers to alter major up front input decisions. Moreover, forecasts have the potential to be disseminated cheaply, even at scale. We assign 250 villages to one of three groups: a control group; a group that receives an opportunity to purchase the forecast; and a group that is offered insurance. This design allows us to investigate farmers’ willingness-to-pay for forecasts; how forecasts affect farmer beliefs, up-front investments, and welfare; and how these effects compare to the canonical ex post loss mitigation tool: index insurance.
 
 <br/>
 <br/>
+
+
+
+### Works in Progress
+
++ *The Value of Safe Driving: Evidence from Kenya's Public Transport Sector (with Erin Kelley and David Schoenholzer)*
+
++ *Home: Experimental Evidence on Repatriation Preferences of Refugees (with Erin Kelley, Reshmaan Hussam, and Fatima Tuz Zahra)*
+
++ *Flight Risk or Reward? Returns to Credit Between Refugees and Locals (with Erin Kelley and Reshmaan Hussam)*
+
++ *Employment, Gender Identity, and Domestic Violence: A Field Experiment in a Refugee Camp (with Erin Kelley and Reshmaan Hussam)*
+
++ *Online Marketplaces and Reducing Barriers for Small Firms (with Erin Kelley, Matthew Pecenco, and Edward Rubin)*
+
++ *Soft Skills, Job Information, and Social Networks (with Gaurav Chiplunkar and Erin Kelley)*
+
++ *Consumer Discrimination: Randomized Evidence from Online Sales (with Erin Kelley, Matthew Pecenco, and Edward Rubin)*
+
+
+<br/>
+<br/>
+
+### Policy/Media Documents
+
 
 #### <em> [Which jobs are lost during a lockdown? Evidence from vacancy postings in India](pdfs/CKL_Covid_July2020.pdf) </em>
 *(with Gaurav Chiplunkar and Erin Kelley)*
@@ -44,19 +76,6 @@ In settings where an individual’s labor choices are constrained, the inability
 We rely on real-time data from India's second largest job portal to study how COVID-19 (and the associated lockdown measures) impacted the Indian labor market. Detailed firm-level vacancy postings on location, industries, occupations and job characteristics allow us to document three facts that suggest a dramatic contraction in hiring, especially for young, less-educated and female job-seekers. First, we observe a substantial decline in the total number of new vacancies posted and the number of firms that post at least one job. Second, we see an increase in jobs that can be completed from home and fewer jobs in occupations that can be easily automated. Finally, we find evidence that certain job-seekers are more affected than others, as employers post fewer entry-level jobs, require higher levels of experience and education, and advertise fewer jobs in female-dominated occupations.
 <br/>
 <br/>
-
-
-### Works in Progress
-
-+ *The Value of Safe Driving: Evidence from Kenya's Public Transport Sector (with Erin Kelley and David Schoenholzer)*
-
-+ *Space for Growth: Evaluating Child Friendly Spaces in Refugee Camps (with Erin Kelley, Reshmaan Hussam, and Fatima Tuz Zahra)*
-
-+ *Online Marketplaces and Reducing Barriers for Small Firms (with Erin Kelley, Matthew Pecenco, and Edward Rubin)*
-
-+ *Soft Skills, Job Information, and Social Networks (with Gaurav Chiplunkar and Erin Kelley)*
-
-+ *Consumer Discrimination: Randomized Evidence from Online Sales (with Erin Kelley, Matthew Pecenco, and Edward Rubin)*
 
 </div>
 
