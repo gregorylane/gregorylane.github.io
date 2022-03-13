@@ -35,6 +35,15 @@ In settings where an individual’s labor choices are constrained, the inability
 <br/>
 <br/>
 
+
+#### <em> [Customer Discrimination in the Workplace: Evidence from Online Sales in Sub-Saharan Africa](pdfs/gender_biases_paper.pdf) </em> 
+*(with Erin Kelley, Matthew Pecenco, and Edward Rubin)* 
+
+*Abstract:*
+Discrimination by customers who prefer to interact with certain types of workers can affect worker productivity. In this paper, we measure the impact of gender-based customer discrimination on the productivity of online sales agents in Sub-Saharan Africa. Using a daily randomization design that varies the gender of names presented to cus- tomers while holding other characteristics fixed, we find the assignment of a female-sounding name leads to significantly fewer purchases by customers. The results appear to be driven by relatively lower interest in engaging with female workers. We do not find evidence of differential bargaining or harassment.
+<br/>
+<br/>
+
 #### <em> [Pre-Analysis Plan -- The value of forecasts: Experimental evidence from developing-country agriculture](pdfs/India_Forecasts_PAP.pdf) </em> 
 *(with Fiona Burlig, Amir Jina, Erin Kelley, and Harshil Sahai)* 
 
@@ -59,8 +68,6 @@ Climate risk is a key driver of low agricultural productivity in poor countries.
 + *Online Marketplaces and Reducing Barriers for Small Firms (with Erin Kelley, Matthew Pecenco, and Edward Rubin)*
 
 + *Soft Skills, Job Information, and Social Networks (with Gaurav Chiplunkar and Erin Kelley)*
-
-+ *Consumer Discrimination: Randomized Evidence from Online Sales (with Erin Kelley, Matthew Pecenco, and Edward Rubin)*
 
 
 <br/>
