@@ -50,6 +50,8 @@ Discrimination by customers who prefer to interact with certain types of workers
 *Abstract:*
 Climate risk is a key driver of low agricultural productivity in poor countries. We use a cluster-randomized trial to evaluate a novel risk-mitigation approach: long-range forecasts that provide information about the onset of the Indian summer monsoon well in advance of its arrival. In contrast to traditional ex post risk coping approaches, this novel ex ante technology provides accurate information significantly before the monsoon’s arrival, enabling farmers to alter major up front input decisions. Moreover, forecasts have the potential to be disseminated cheaply, even at scale. We assign 250 villages to one of three groups: a control group; a group that receives an opportunity to purchase the forecast; and a group that is offered insurance. This design allows us to investigate farmers’ willingness-to-pay for forecasts; how forecasts affect farmer beliefs, up-front investments, and welfare; and how these effects compare to the canonical ex post loss mitigation tool: index insurance.
 
+*Accepted via pre-results review* at Journal of Development Economics
+
 <br/>
 <br/>
 
@@ -65,7 +67,7 @@ Climate risk is a key driver of low agricultural productivity in poor countries.
 
 + *Employment, Gender Identity, and Domestic Violence: A Field Experiment in a Refugee Camp (with Erin Kelley and Reshmaan Hussam)*
 
-+ *Online Marketplaces and Reducing Barriers for Small Firms (with Erin Kelley, Matthew Pecenco, and Edward Rubin)*
++ *Online Marketplaces and Reducing Barriers for Small Firms (with Erin Kelley, Matthew Pecenco)*
 
 + *Soft Skills, Job Information, and Social Networks (with Gaurav Chiplunkar and Erin Kelley)*
 
