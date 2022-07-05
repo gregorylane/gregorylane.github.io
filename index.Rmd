@@ -13,7 +13,7 @@ includes:
 </div>
 
 <div>
-## Assistant Professor of Economics <br> American University
+## Assistant Professor <br> Harris School of Public Policy, University of Chicago
 
 I am an Assistant Professor at the [Harris School of Public Policy](https://harris.uchicago.edu/) at the University of Chicago. I am a development economist and my current research focuses on innovations in finance and technology, and labor markets in developing countries. I currently have research projects in Bangladesh, Kenya, and India.   
 
