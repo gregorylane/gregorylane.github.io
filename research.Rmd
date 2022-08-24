@@ -4,6 +4,24 @@ output: html_document
 ---
 <div>
 
+<br/>
+
+## Publications
+
+#### <em> [The Psychosocial Value of Employment: Evidence from a Refugee Camp](pdfs/employment.pdf) </em> 
+*(with Erin Kelley, Reshmaan Hussam, and Fatima Tuz Zahra)* 
+
+*Abstract:*
+Employment may be an important source of wellbeing beyond its role as a source of income. This paper presents a causal estimate of the psychosocial value of employment in refugee camps in Bangladesh. We engage 745 individuals in a field experiment with three arms: a control arm, a weekly cash arm, and an employment arm of equal value. We find that employment generates improvements in psychosocial wellbeing substantially larger than cash alone. Consistent with these findings, 66% of those in our work treatment are willing to forego cash payments to instead work for free.
+
+*Forthcoming* American Economic Review
+
+<br/>
+<br/>
+
+## Working Papers 
+
+
 #### <em> [Credit Lines as Insurance: Evidence from Bangladesh](pdfs/JMP_Lane.pdf) </em> 
 
 *Abstract:*
@@ -20,18 +38,6 @@ Lending institutions often withhold credit from borrowers who have suffered an i
 This paper examines whether moral hazard is a meaningful barrier to firm productivity and growth in low-income countries. We introduce monitoring devices into commuter minibuses in Kenya and randomize which minibus owners have access to the data using a novel mobile app. We find that treated vehicle owners modify the terms of the contract to induce higher effort and lower risk-taking from their drivers, resulting in lower firm costs, higher firm productivity, and firm expansion. These results suggest that moral hazard constrains firm productivity, and the proliferation of monitoring technologies could represent a boon for small firms in low-income countries.
 
 *Revision Requested* American Economic Review
-<br/>
-<br/>
-
-#### <em> [The Psychosocial Value of Employment: Evidence from a Refugee Camp](pdfs/employment.pdf) </em> 
-*(with Erin Kelley, Reshmaan Hussam, and Fatima Tuz Zahra)* 
-
-*Abstract:*
-Employment may be an important source of wellbeing beyond its role as a source of income. This paper presents a causal estimate of the psychosocial value of employment in refugee camps in Bangladesh. We engage 745 individuals in a field experiment with three arms: a control arm, a weekly cash arm, and an employment arm of equal value. We find that employment generates improvements in psychosocial wellbeing substantially larger than cash alone. Consistent with these findings, 66% of those in our work treatment are willing to forego cash payments to instead work for free.
-
-*Revision Requested* American Economic Review
-
-*Accepted via pre-results review at* Journal of Development Economics 
 <br/>
 <br/>
 
