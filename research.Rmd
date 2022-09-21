@@ -22,10 +22,10 @@ Employment may be an important source of wellbeing beyond its role as a source o
 ## Working Papers 
 
 
-#### <em> [Credit Lines as Insurance: Evidence from Bangladesh](pdfs/JMP_Lane.pdf) </em> 
+#### <em> [Adapting to Floods with Guaranteed Credit: Evidence from Bangladesh](pdfs/Lane_Floods.pdf) </em> 
 
 *Abstract:*
-Lending institutions often withhold credit from borrowers who have suffered an income shock because they are concerned about default risk. This can be especially debilitating in low-income countries because households have few resources to manage these shocks. I show that a loan product that guarantees credit access to agricultural households following a negative shock increases their welfare through two channels: an ex-ante insurance effect, whereby households increase investments in risky but profitable production; and an ex-post effect, whereby households use the loan to smooth consumption. Repayment is high and the loan is profitable for the lender – demonstrating that guaranteed credit is a valuable risk-mitigation tool for households that need not jeopardize lenders profits.
+As the effects of climate change worsen for households in low-income countries, policy solutions need to be developed at-scale. I estimate the impact of a product that helps households cope with floods, while overcoming existing market frictions that have limited the use of other adaptation measures. I find that a loan product that guarantees credit access to agricultural households following a flood increases their welfare through two channels: an ex-ante insurance effect, whereby households increase investments in risky but profitable production; and an ex-post effect, whereby households use the loan to smooth consumption. Repayment is high and the loan is profitable for the lender – demonstrating that guaranteed credit is a sustainable tool that institutions can supply to households vulnerable to climate shocks.
 
 *Revision Requested* Econometrica
 <br/>
