@@ -14,7 +14,7 @@ output: html_document
 *Abstract:*
 Employment may be an important source of wellbeing beyond its role as a source of income. This paper presents a causal estimate of the psychosocial value of employment in refugee camps in Bangladesh. We engage 745 individuals in a field experiment with three arms: a control arm, a weekly cash arm, and an employment arm of equal value. We find that employment generates improvements in psychosocial wellbeing substantially larger than cash alone. Consistent with these findings, 66% of those in our work treatment are willing to forego cash payments to instead work for free.
 
-*Forthcoming* American Economic Review
+*American Economic Review 2022, 112(11)*
 
 <br/>
 <br/>
