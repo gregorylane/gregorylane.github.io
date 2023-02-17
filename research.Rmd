@@ -46,7 +46,7 @@ This paper examines whether moral hazard is a meaningful barrier to firm product
 *(with Erin Kelley, Matthew Pecenco, and Edward Rubin)* 
 
 *Abstract:*
-Discrimination by customers who prefer to interact with certain types of workers can affect worker productivity. In this paper, we measure the impact of gender-based customer discrimination on the productivity of online sales agents in Sub-Saharan Africa. Using a daily randomization design that varies the gender of names presented to cus- tomers while holding other characteristics fixed, we find the assignment of a female-sounding name leads to significantly fewer purchases by customers. The results appear to be driven by relatively lower interest in engaging with female workers. We do not find evidence of differential bargaining or harassment.
+Many workers are evaluated on their ability to engage with customers. We measure the impact of gender-based customer discrimination on the productivity of online sales agents in Sub-Saharan Africa. Using a novel framework that randomly varies the gender of names presented to customers without changing worker behavior, we find the assign- ment of a female-sounding name leads to 50 percent fewer purchases. Customers also lag in responding, are less expressive, and avoid discussing purchases. We show similar results for customers around the world and across workers. Removing customer bias, we find women would be more productive than their male co-workers.
 <br/>
 <br/>
 
