@@ -5,6 +5,11 @@ output: html_document
 
 <div>
 
+### University of Chicago
++ Labor Markets: A Global Perspective (Undergrad and Masters), *2023*
+
+<br/>
+
 ### American University
 + Economic Development (Undergraduate level), *2019, 2020*
 + Development Microeconomics (PhD level), *2019, 2020, 2021*
@@ -14,16 +19,8 @@ output: html_document
 
 ### UC Berkeley
 + Introductory Applied Econometrics, *UC Berkeley Summer Session 2017*
-    + [Course Materials](metrics.html)
-  
-+ Applied Econometrics, *Spring 2016*
-+ Development Economics, *Fall 2015*
-
-<br/>
-
-### Cornell University
-+ Managerial Economics, *Spring 2013*
-+ International Trade and Finance, *Fall 2012*
++ Applied Econometrics, *2016*
++ Development Economics, *2015*
 
 
 </div>
