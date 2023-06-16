@@ -6,5 +6,6 @@ output: html_document
 
 
 **Email:** laneg `at` uchicago `dot` edu
+
 **Office:** Keller 3103 
 
