@@ -57,6 +57,15 @@ Many workers are evaluated on their ability to engage with customers. We measure
 Climate risk is a key driver of low agricultural productivity in poor countries. We use a cluster-randomized trial to evaluate a novel risk-mitigation approach: long-range forecasts that provide information about the onset of the Indian summer monsoon well in advance of its arrival. In contrast to traditional ex post risk coping approaches, this novel ex ante technology provides accurate information significantly before the monsoon’s arrival, enabling farmers to alter major up front input decisions. Moreover, forecasts have the potential to be disseminated cheaply, even at scale. We assign 250 villages to one of three groups: a control group; a group that receives an opportunity to purchase the forecast; and a group that is offered insurance. This design allows us to investigate farmers’ willingness-to-pay for forecasts; how forecasts affect farmer beliefs, up-front investments, and welfare; and how these effects compare to the canonical ex post loss mitigation tool: index insurance.
 
 *Accepted via pre-results review* at Journal of Development Economics
+<br/>
+<br/>
+
+
+#### <em> [Competitive Job Seekers: When Sharing Less Leaves Firms at a Loss](pdfs/Employability_Training_Project.pdf) </em> 
+*(with Gaurav Chiplunkar and Erin Kelley)* 
+
+*Abstract:*
+We use a randomized control trial to study how young job-seekers share informa- tion about jobs within their social network, and its implications for firms. When competition for a job is made salient, we find that job-seekers are: (i) less likely to share information about the job with their peers; and (ii) choose to share it with fewer higher ability peers. This lowers the size and quality of the applicants a firm sees and the hires they make. These results suggest that firms who rely heavily on social networks to disseminate information about jobs may see lower quality applicants than they expected for positions that are deemed more competitive.
 
 <br/>
 <br/>
@@ -67,16 +76,13 @@ Climate risk is a key driver of low agricultural productivity in poor countries.
 
 + *The Value of Safe Driving: Evidence from Kenya's Public Transport Sector (with Erin Kelley and David Schoenholzer)*
 
-+ *Home: Experimental Evidence on Repatriation Preferences of Refugees (with Erin Kelley, Reshmaan Hussam, and Fatima Tuz Zahra)*
++ *Home: Experimental Evidence on Repatriation Preferences of Refugees (with Erin Kelley and Reshmaan Hussam)*
 
 + *Flight Risk or Reward? Returns to Credit Between Refugees and Locals (with Erin Kelley and Reshmaan Hussam)*
 
-+ *Employment, Gender Identity, and Domestic Violence: A Field Experiment in a Refugee Camp (with Erin Kelley and Reshmaan Hussam)*
++ *The gendered value of employment (with Erin Kelley and Reshmaan Hussam)*
 
 + *Online Marketplaces and Reducing Barriers for Small Firms (with Erin Kelley, Matthew Pecenco)*
-
-+ *Soft Skills, Job Information, and Social Networks (with Gaurav Chiplunkar and Erin Kelley)*
-
 
 <br/>
 <br/>
