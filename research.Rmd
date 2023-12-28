@@ -19,17 +19,20 @@ Employment may be an important source of wellbeing beyond its role as a source o
 <br/>
 <br/>
 
+
+#### <em> [Adapting to Floods with Guaranteed Credit: Evidence from Bangladesh](pdfs/Adaptation.pdf) </em> 
+
+*Abstract:*
+Climate change is increasing the frequency of extreme weather events, with low-income countries being disproportionately impacted. However, these countries often face market frictions that hinder their ability to adopt effective adaptation strategies. In this paper, I explore the role of credit market failures in limiting adaptation. To achieve this, I collaborate with a large micro-finance institution and offer a randomly selected group of farmers access to guaranteed credit through an ”Emergency Loan” following a negative climate shock. I document three key results. First, farmers who have access to the emergency loan make less costly adaptation choices and are less severely affected when a flood occurs. Secondly, I find no evidence of adverse spillover effects on households that did not receive the Emergency Loan. Finally, I demonstrate that providing the Emergency Loan is profitable for the micro-finance institution, making it a viable tool for the private sector to employ in similar circumstances.
+
+
+*Forthcoming, Econometrica*
+<br/>
+<br/>
+
 ## Working Papers 
 
 
-#### <em> [Adapting to Floods with Guaranteed Credit: Evidence from Bangladesh](pdfs/Lane_Floods.pdf) </em> 
-
-*Abstract:*
-As the effects of climate change worsen for households in low-income countries, policy solutions need to be developed at-scale. I estimate the impact of a product that helps households cope with floods, while overcoming existing market frictions that have limited the use of other adaptation measures. I find that a loan product that guarantees credit access to agricultural households following a flood increases their welfare through two channels: an ex-ante insurance effect, whereby households increase investments in risky but profitable production; and an ex-post effect, whereby households use the loan to smooth consumption. Repayment is high and the loan is profitable for the lender – demonstrating that guaranteed credit is a sustainable tool that institutions can supply to households vulnerable to climate shocks.
-
-*Revision Requested* Econometrica
-<br/>
-<br/>
 
 #### <em> [Monitoring in Target Contracts: Theory and Experiment in Kenyan Public Transit](pdfs/matatu.pdf) </em>
 *(with Erin Kelley and David Sch&ouml;nholzer)*
