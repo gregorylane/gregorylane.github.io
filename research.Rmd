@@ -14,7 +14,7 @@ output: html_document
 *Abstract:*
 Employment may be an important source of wellbeing beyond its role as a source of income. This paper presents a causal estimate of the psychosocial value of employment in refugee camps in Bangladesh. We engage 745 individuals in a field experiment with three arms: a control arm, a weekly cash arm, and an employment arm of equal value. We find that employment generates improvements in psychosocial wellbeing substantially larger than cash alone. Consistent with these findings, 66% of those in our work treatment are willing to forego cash payments to instead work for free.
 
-*American Economic Review 2022, 112(11)*
+*American Economic Review (2022), 112(11)*
 
 <br/>
 
@@ -25,7 +25,7 @@ Employment may be an important source of wellbeing beyond its role as a source o
 Climate change is increasing the frequency of extreme weather events, with low-income countries being disproportionately impacted. However, these countries often face market frictions that hinder their ability to adopt effective adaptation strategies. In this paper, I explore the role of credit market failures in limiting adaptation. To achieve this, I collaborate with a large micro-finance institution and offer a randomly selected group of farmers access to guaranteed credit through an ”Emergency Loan” following a negative climate shock. I document three key results. First, farmers who have access to the emergency loan make less costly adaptation choices and are less severely affected when a flood occurs. Secondly, I find no evidence of adverse spillover effects on households that did not receive the Emergency Loan. Finally, I demonstrate that providing the Emergency Loan is profitable for the micro-finance institution, making it a viable tool for the private sector to employ in similar circumstances.
 
 
-*Econometrica 2024, 92(2)*
+*Econometrica (2024), 92(2)*
 <br/>
 <br/>
 
