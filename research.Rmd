@@ -29,10 +29,6 @@ Climate change is increasing the frequency of extreme weather events, with low-i
 <br/>
 <br/>
 
-## Working Papers 
-
-
-
 #### <em> [Monitoring in Target Contracts: Theory and Experiment in Kenyan Public Transit](pdfs/matatu.pdf) </em>
 *(with Erin Kelley and David Sch&ouml;nholzer)*
 
@@ -43,6 +39,9 @@ This paper examines whether moral hazard is a meaningful barrier to firm product
 <br/>
 <br/>
 
+
+
+## Working Papers 
 
 #### <em> [Customer Discrimination in the Workplace: Evidence from Online Sales](pdfs/customer_discrimination.pdf) </em> 
 *(with Erin Kelley, Matthew Pecenco, and Edward Rubin)* 
