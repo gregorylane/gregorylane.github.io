@@ -59,7 +59,7 @@ Many workers are evaluated on their ability to engage with customers. We measure
 *Abstract:*
 Climate change is making weather more variable, exacerbating agricultural risk in poor coun- tries. Increasingly, risk-averse farmers are unable to tailor their planting decisions to the coming season, and underinvest in profitable inputs. Accurate, long-range forecasts enable farmers to optimize for the growing season ahead. We experimentally evaluate monsoon onset forecasts in India, randomizing 250 villages into control; a forecast group receiving information well in advance of onset; and an index insurance group which serves as a benchmark. Forecast farmers update their beliefs and their behavior accordingly: farmers who receive “bad news” relative to their priors substantially reduce land under cultivation and certain input expenditures, while those receiving “good news” significantly increase input expenditures. The forecast also changes crop choice, as farmers tailor their investments. These changes in ex ante investments lead to meaningful changes in ex post outcomes. Machine learning-based heterogeneity shows that the least well-off farmers experience the largest increase in agricultural profits from the forecast. In contrast to the forecast, insurance, which provides no information about the coming season, increases investments but does not change crops. Our results demonstrate that forecasts are a promising tool for climate adaptation.
 
-*Pre-analysis plan accepted via pre-results review* at Journal of Development Economics
+*Pre-analysis plan accepted via pre-results review*  at Journal of Development Economics
 <br/>
 <br/>
 
