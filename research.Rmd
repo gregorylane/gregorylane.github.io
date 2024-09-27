@@ -35,7 +35,7 @@ Climate change is increasing the frequency of extreme weather events, with low-i
 *Abstract:*
 This paper examines whether moral hazard is a meaningful barrier to firm productivity and growth in low-income countries. We introduce monitoring devices into commuter minibuses in Kenya and randomize which minibus owners have access to the data using a novel mobile app. We find that treated vehicle owners modify the terms of the contract to induce higher effort and lower risk-taking from their drivers, resulting in lower firm costs, higher firm productivity, and firm expansion. These results suggest that moral hazard constrains firm productivity, and the proliferation of monitoring technologies could represent a boon for small firms in low-income countries.
 
-*Forthcoming* American Economic Review
+*American Economic Review (2024), 114(10)*
 <br/>
 <br/>
 
