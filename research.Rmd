@@ -86,18 +86,23 @@ We use a randomized control trial to study how young job-seekers share informa- 
 
 *Abstract*
 Road traffic accidents in poorly regulated public transit is a leading cause of death in low- and middle-income countries. We study how providing information about bus safety to passengers affects the demand and supply of safer public transit. We collect high-frequency measures of safe driving for five firms operating on one of the busiest long-range routes in Kenya, using a newly developed tracking device. We randomize private information to passengers about which firm is the safest choice. We then provide a public signal to both passengers and firms that buses are now being tracked. Treated passengers do not respond to private information at first, but after the introduction of the public signal they substitute strongly towards the safe firm, and some firms provide safer services. We rationalize these effects in a model of heterogeneous firms responding strategically to higher demand for safety due to the public signal. We derive welfare estimates of alternative equilibria, which imply that the welfare effects of information interventions crucially depend on the nature of the market equilibrium.
-
 <br/>
 <br/>
 
+#### <em> [Household Preferences for Female Employment: A Field Experiment in Bangladesh](pdfs/HHKL_laborsupply.pdf) </em> 
+*(with Yueh-ya Hsu, Reshmaan Hussam, and Erin Kelley)*
+
+*Abstract*
+Female labor force participation remains lower than male participation in many settings. Can this be explained by households’ preference for men’s work, and are these preferences malleable? We address this question with a field experiment in a refugee camp setting in Bangladesh, where we randomly offer the same six-week job—under identical conditions—to either the husband or the wife in a household. We find that when women work, their wellbeing improves but their husbands’ does not. When men work, both their own and their wives’ wellbeing improve, along with the health of the relationship and a greater self-reported sense of purpose for both partners. These findings help shed light on why households favor men working over women, which we document through an incentivized labor supply exercise. However, more than a year later, households where women previously worked for us show significantly stronger preferences for female employment, as men update their beliefs about the costs of women working. These results demonstrate that even brief exposure to women’s work can shift household preferences over female employment.
+
+<br/>
+<br/>
 
 ### Works in Progress
 
 + *Home: Experimental Evidence on Repatriation Preferences of Refugees (with Erin Kelley and Reshmaan Hussam)*
 
 + *Flight Risk or Reward? Returns to Credit Between Refugees and Locals (with Erin Kelley and Reshmaan Hussam)*
-
-+ *The Household at Work: A Field Experiment in the Rohingya Refugee Camps (with Erin Kelley and Reshmaan Hussam)*
 
 + *Online Marketplaces and Reducing Barriers for Small Firms (with Erin Kelley, Matthew Pecenco)*
 
