@@ -73,11 +73,11 @@ weather, forecasts reduce farmers’ risk exposure and increase aggregate welfar
 <br/>
 
 
-#### <em> [Competitive Job Seekers: When Sharing Less Leaves Firms at a Loss](pdfs/Competition_LaborMarkets.pdf) </em> 
+#### <em> [Who Gets the Job? The Consequences of Strategic Information Sharing within Social Networks](pdfs/Employability_Training_Project.pdf) </em> 
 *(with Gaurav Chiplunkar and Erin Kelley)* 
 
 *Abstract:*
-We use a randomized control trial to study how young job-seekers share informa- tion about jobs within their social network, and its implications for firms. When competition for a job is made salient, we find that job-seekers are: (i) less likely to share information about the job with their peers; and (ii) choose to share it with fewer higher ability peers. This lowers the size and quality of the applicants a firm sees and the hires they make. These results suggest that firms who rely heavily on social networks to disseminate information about jobs may see lower quality applicants than they expected for positions that are deemed more competitive.
+We study how job-seekers share information about jobs within their social network, and its implications for the quality of applicants and hires. We randomly increase the amount of competition for a job that we created and find that job-seekers are less likely to share information about the job, especially with their high ability peers. This lowers the quality of applicants, hires, and performance on the job — suggesting that disseminating job information through social networks may result in lower quality applicants than expected for competitive positions. While randomly offering higher wages attracts better talent, it is not able to fully overcome these strategic disincentives.
 <br/>
 <br/>
 
