@@ -90,7 +90,7 @@ Road traffic accidents in poorly regulated public transit is a leading cause of 
 <br/>
 
 #### <em> [Fast Action for Floods: RCT Evidence on Forecast-based Cash Transfers from Bangladesh and Nepal ](pdfs/Bangladesh_FBF_Working_Paper.pdf) </em> 
-*(with Paul Christian, Felipe Dunsch, Jonas Heirman, Florence Kondylis, Gregory Lane, Jennifer Waidler, Nidhila Adusumalli, Odbayar Batmunkh and Kriti Malhotra)*
+*(with Paul Christian, Felipe Dunsch, Jonas Heirman, Florence Kondylis, Erin Kelley, Jennifer Waidler, Nidhila Adusumalli, Odbayar Batmunkh and Kriti Malhotra)*
 
 *Abstract:*
 As increasingly frequent extreme weather events disrupt lives, institutions are turning to early-warning systems and advance preparation to accelerate aid delivery. We present evidence from a randomized controlled trial in Bangladesh and Nepal testing whether providing cash within days of a flood leads to greater benefits than delivering the same assistance months later—or if it simply shifts the timing of benefits without improving overall welfare. Results suggest that timely cash assistance leads to overall gains in food security and psychosocial well-being. This evidence supports efforts to forecast crises and release disaster relief quickly.
