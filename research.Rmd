@@ -61,12 +61,11 @@ Many workers are evaluated on their ability to engage with customers. We measure
 
 ## Working Papers 
 
-#### <em> [The value of forecasts: Experimental evidence from India](pdfs/BKJLS_India_Forecasts.pdf) </em> 
+#### <em> [Beliefs, forecasts, and investments: Experimental evidence from India](pdfs/BKJLS_India_Forecasts.pdf) </em> 
 *(with Fiona Burlig, Amir Jina, Erin Kelley, and Harshil Sahai)* 
 
 *Abstract:*
-Unpredictable weather makes it challenging for households and firms to make optimal investment decisions. Technologies that reduce these risks are crucial for climate change adaptation. We experimentally evaluate one such technology – an accurate, localized, early monsoon onset forecast – in India, randomizing 250 villages into control, forecast, or insurance. The forecast changes farmers’ beliefs about the coming growing season. In response, forecast farmers adapt their behavior along multiple margins, changing cultivated area, crop choice, farm input expenditure, and oﬀ-farm business. By enabling farmers to tailor their investments to coming
-weather, forecasts reduce farmers’ risk exposure and increase aggregate welfare.
+The world’s 500 million smallholder farms are essential to the global economy, but face a fundamental challenge: farmers must commit to investment decisions before the weather – a key input to production – is realized. Farmers must therefore rely on their beliefs about inherently uncertain weather. In theory, a forecast that could align beliefs with actual realizations would enable farmers to improve their investments across multiple margins, but in practice, forecasts’ eﬀectiveness remains unknown. We use an RCT to document four new facts about farmer beliefs and forecasts. First, beliefs drive farmer behavior in the status quo. Second, farmers update their beliefs when given a high-quality, long-range forecast. Third, this forecast allows farmers to broadly re-optimize their investments, making adjustments both on and oﬀ the farm, which improves overall welfare. Fourth, farmer beliefs also impact their responses to a canonical agricultural policy instrument – insurance – underscoring the importance of aligning beliefs with realizations.
 
 *Pre-analysis plan accepted via pre-results review*  at Journal of Development Economics
 <br/>
