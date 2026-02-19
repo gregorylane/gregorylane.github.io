@@ -8,14 +8,32 @@ output: html_document
 
 ## Publications
 
-#### <em> [The Psychosocial Value of Employment: Evidence from a Refugee Camp](pdfs/employment.pdf) </em> 
-*(with Erin Kelley, Reshmaan Hussam, and Fatima Tuz Zahra)* 
+#### <em> [Customer Discrimination in the Workplace: Evidence from Online Sales](pdfs/customer_discrimination.pdf) </em> 
+*(with Erin Kelley, Matthew Pecenco, and Edward Rubin)* 
 
 *Abstract:*
-Employment may be an important source of wellbeing beyond its role as a source of income. This paper presents a causal estimate of the psychosocial value of employment in refugee camps in Bangladesh. We engage 745 individuals in a field experiment with three arms: a control arm, a weekly cash arm, and an employment arm of equal value. We find that employment generates improvements in psychosocial wellbeing substantially larger than cash alone. Consistent with these findings, 66% of those in our work treatment are willing to forego cash payments to instead work for free.
+Many workers are evaluated on their ability to engage with customers. We measure the impact of gender-based customer discrimination on the productivity of online sales agents in Sub-Saharan Africa. Using a novel framework that randomly varies the gender of names presented to customers without changing worker behavior, we find the assignment of a female-sounding name leads to 50 percent fewer purchases. Customers also lag in responding, are less expressive, and avoid discussing purchases. We show similar results for customers around the world and across workers. Removing customer bias, we find women would be more productive than their male co-workers.
 
-*American Economic Review (2022), 112(11)*
+*Journal of Labor Economics (2026)*
+<br/>
+<br/>
 
+
+#### <em> [Does Gender Tagging Public Works Increase Women's Participation? Experimental Evidence from Haiti, Kenya, and Rwanda](pdfs/gender_tag_pp.pdf) </em> 
+*(with Tanay Balantrapu, Paul Christian, Lelys Dinarte-Diaz, Felipe Dunsch, Jonas Heirman, Dahyeon Jeong, Erin Kelley, Florence Kondylis, and John Loeser)* 
+
+*AEA Papers and Proceedings (2025)*
+<br/>
+<br/>
+
+#### <em> [Monitoring in Small Firms: Experimental Evidence from Kenyan Public Transit](pdfs/matatu.pdf) </em>
+*(with Erin Kelley and David Sch&ouml;nholzer)*
+
+*Abstract:*
+This paper examines whether moral hazard is a meaningful barrier to firm productivity and growth in low-income countries. We introduce monitoring devices into commuter minibuses in Kenya and randomize which minibus owners have access to the data using a novel mobile app. We find that treated vehicle owners modify the terms of the contract to induce higher effort and lower risk-taking from their drivers, resulting in lower firm costs, higher firm productivity, and firm expansion. These results suggest that moral hazard constrains firm productivity, and the proliferation of monitoring technologies could represent a boon for small firms in low-income countries.
+
+*American Economic Review (2024)*
+<br/>
 <br/>
 
 
@@ -25,37 +43,22 @@ Employment may be an important source of wellbeing beyond its role as a source o
 Climate change is increasing the frequency of extreme weather events, with low-income countries being disproportionately impacted. However, these countries often face market frictions that hinder their ability to adopt effective adaptation strategies. In this paper, I explore the role of credit market failures in limiting adaptation. To achieve this, I collaborate with a large micro-finance institution and offer a randomly selected group of farmers access to guaranteed credit through an Emergency Loan following a negative climate shock. I document three key results. First, farmers who have access to the emergency loan make less costly adaptation choices and are less severely affected when a flood occurs. Secondly, I find no evidence of adverse spillover effects on households that did not receive the Emergency Loan. Finally, I demonstrate that providing the Emergency Loan is profitable for the micro-finance institution, making it a viable tool for the private sector to employ in similar circumstances.
 
 
-*Econometrica (2024), 92(2)*
+*Econometrica (2024)*
 <br/>
 <br/>
 
-#### <em> [Monitoring in Target Contracts: Theory and Experiment in Kenyan Public Transit](pdfs/matatu.pdf) </em>
-*(with Erin Kelley and David Sch&ouml;nholzer)*
+#### <em> [The Psychosocial Value of Employment: Evidence from a Refugee Camp](pdfs/employment.pdf) </em> 
+*(with Erin Kelley, Reshmaan Hussam, and Fatima Tuz Zahra)* 
 
 *Abstract:*
-This paper examines whether moral hazard is a meaningful barrier to firm productivity and growth in low-income countries. We introduce monitoring devices into commuter minibuses in Kenya and randomize which minibus owners have access to the data using a novel mobile app. We find that treated vehicle owners modify the terms of the contract to induce higher effort and lower risk-taking from their drivers, resulting in lower firm costs, higher firm productivity, and firm expansion. These results suggest that moral hazard constrains firm productivity, and the proliferation of monitoring technologies could represent a boon for small firms in low-income countries.
+Employment may be an important source of wellbeing beyond its role as a source of income. This paper presents a causal estimate of the psychosocial value of employment in refugee camps in Bangladesh. We engage 745 individuals in a field experiment with three arms: a control arm, a weekly cash arm, and an employment arm of equal value. We find that employment generates improvements in psychosocial wellbeing substantially larger than cash alone. Consistent with these findings, 66% of those in our work treatment are willing to forego cash payments to instead work for free.
 
-*American Economic Review (2024), 114(10)*
-<br/>
-<br/>
+*American Economic Review (2022)*
 
-#### <em> [Customer Discrimination in the Workplace: Evidence from Online Sales](pdfs/customer_discrimination.pdf) </em> 
-*(with Erin Kelley, Matthew Pecenco, and Edward Rubin)* 
-
-*Abstract:*
-Many workers are evaluated on their ability to engage with customers. We measure the impact of gender-based customer discrimination on the productivity of online sales agents in Sub-Saharan Africa. Using a novel framework that randomly varies the gender of names presented to customers without changing worker behavior, we find the assignment of a female-sounding name leads to 50 percent fewer purchases. Customers also lag in responding, are less expressive, and avoid discussing purchases. We show similar results for customers around the world and across workers. Removing customer bias, we find women would be more productive than their male co-workers.
-
-*Forthcoming* Journal of Labor Economics
 <br/>
 <br/>
 
 
-#### <em> [Does Gender Tagging Public Works Increase Women's Participation? Experimental Evidence from Haiti, Kenya, and Rwanda](pdfs/gender_tag_pp.pdf) </em> 
-*(with Tanay Balantrapu, Paul Christian, Lelys Dinarte-Diaz, Felipe Dunsch, Jonas Heirman, Dahyeon Jeong, Erin Kelley, Florence Kondylis, and John Loeser)* 
-
-*AEA Papers and Proceedings (2025), 115*
-<br/>
-<br/>
 
 
 
@@ -67,7 +70,7 @@ Many workers are evaluated on their ability to engage with customers. We measure
 *Abstract:*
 The world’s 500 million smallholder farms are essential to the global economy, but face a fundamental challenge: farmers must commit to investment decisions before the weather – a key input to production – is realized. Farmers must therefore rely on their beliefs about inherently uncertain weather. In theory, a forecast that could align beliefs with actual realizations would enable farmers to improve their investments across multiple margins, but in practice, forecasts’ eﬀectiveness remains unknown. We use an RCT to document four new facts about farmer beliefs and forecasts. First, beliefs drive farmer behavior in the status quo. Second, farmers update their beliefs when given a high-quality, long-range forecast. Third, this forecast allows farmers to broadly re-optimize their investments, making adjustments both on and oﬀ the farm, which improves overall welfare. Fourth, farmer beliefs also impact their responses to a canonical agricultural policy instrument – insurance – underscoring the importance of aligning beliefs with realizations.
 
-*Pre-analysis plan accepted via pre-results review*  at Journal of Development Economics
+*Pre-analysis plan accepted via pre-results review at Journal of Development Economics*
 <br/>
 <br/>
 
@@ -77,11 +80,13 @@ The world’s 500 million smallholder farms are essential to the global economy,
 
 *Abstract:*
 We study how job-seekers share information about jobs within their social network, and its implications for the quality of applicants and hires. We randomly increase the amount of competition for a job that we created and find that job-seekers are less likely to share information about the job, especially with their high ability peers. This lowers the quality of applicants, hires, and performance on the job — suggesting that disseminating job information through social networks may result in lower quality applicants than expected for competitive positions. While randomly offering higher wages attracts better talent, it is not able to fully overcome these strategic disincentives.
+
+*Revise and Resubmit, Review of Economics and Statistics*
 <br/>
 <br/>
 
 #### <em> [The Value of Safe Driving: Evidence from Kenya's Public Transport Sector](pdfs/matatu_safety.pdf) </em> 
-*(with Erin Kelley and David Schoenholzer)*
+*(with Erin Kelley and David Sch&ouml;nholzer)*
 
 *Abstract:*
 Road traffic accidents in poorly regulated public transit is a leading cause of death in low- and middle-income countries. We study how providing information about bus safety to passengers affects the demand and supply of safer public transit. We collect high-frequency measures of safe driving for five firms operating on one of the busiest long-range routes in Kenya, using a newly developed tracking device. We randomize private information to passengers about which firm is the safest choice. We then provide a public signal to both passengers and firms that buses are now being tracked. Treated passengers do not respond to private information at first, but after the introduction of the public signal they substitute strongly towards the safe firm, and some firms provide safer services. We rationalize these effects in a model of heterogeneous firms responding strategically to higher demand for safety due to the public signal. We derive welfare estimates of alternative equilibria, which imply that the welfare effects of information interventions crucially depend on the nature of the market equilibrium.
@@ -110,13 +115,13 @@ Female labor force participation remains lower than male participation in many s
 
 + *Market Unraveling and Quality Control in Agriculture (with Manzoor Dar, Kyle Emerick, Davis Gimode, and Erin Kelley)* 
 <br/>
-Pre-analysis plan plan accepted via pre-results review at *Journal of Development Economics*
+Pre-analysis plan accepted via pre-results review at *Journal of Development Economics*
 
-+ *Flight Risk or Reward? Returns to Credit Between Refugees and Locals (with Erin Kelley and Reshmaan Hussam)*
++ *Flight Risk or Reward? Returns to Credit Between Refugees and Locals (with Sylvan Herskowitz, Erin Kelley, and Reshmaan Hussam)*
 
 + *Online Marketplaces and Reducing Barriers for Small Firms (with Erin Kelley and Matthew Pecenco)*
 
-+ *Does subsidized insurance crowd out climate resilience? Experimental evidence from India (with Fiona Burlig and Erin Kelley)*
++ *Does subsidized insurance crowd out climate resilience? Experimental evidence from India (with Fiona Burlig, Manzoor H. Dar, Xavier Gin&#233;, and Erin Kelley)*
 
 <br/>
 <br/>
