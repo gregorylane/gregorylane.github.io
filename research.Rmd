@@ -106,8 +106,9 @@ As increasingly frequent extreme weather events disrupt lives, institutions are 
 *(with Yueh-ya Hsu, Reshmaan Hussam, and Erin Kelley)*
 
 *Abstract:*
-Female labor force participation remains lower than male participation in many settings. Can this be explained by households’ preference for men’s work, and are these preferences malleable? We address this question with a field experiment in a refugee camp setting in Bangladesh, where we randomly offer the same six-week job—under identical conditions—to either the husband or the wife in a household. We find that when women work, their wellbeing improves but their husbands’ does not. When men work, both their own and their wives’ wellbeing improve, along with the health of the relationship and a greater self-reported sense of purpose for both partners. These findings help shed light on why households favor men working over women, which we document through an incentivized labor supply exercise. However, more than a year later, households where women previously worked for us show significantly stronger preferences for female employment, as men update their beliefs about the costs of women working. These results demonstrate that even brief exposure to women’s work can shift household preferences over female employment.
+This paper investigates household preferences over who should work and whether these preferences are malleable. We document that men and women prefer that husbands work over wives. To understand why, we randomly assign a six-week job to either the husband or wife and document asymmetry: women’s work improves their own wellbeing but not their husbands’, while men’s work improves both partners’ wellbeing. One year later, we surprise households with a work opportunity. Both women and men in households where women were previously employed are more likely to prefer the woman take the job and express fewer concerns about women’s employment in general.
 
+*Companion paper:* [Is it all about the work?](pdfs/Work_Companion.pdf)
 <br/>
 <br/>
 
