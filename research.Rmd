@@ -112,6 +112,15 @@ This paper investigates household preferences over who should work and whether t
 <br/>
 <br/>
 
+
+#### <em> [Insurance and the demand for adaptation: theory and experimental evidence from West Bengal](pdfs/Insure_Adapt.pdf) </em> 
+*(with Fiona Burlig, Manzoor H. Dar, Xavier Gin&#233;, and Erin Kelley)*
+
+*Abstract* 
+Governments spend billions subsidizing climate insurance, despite concerns about discouraging adaptation. Our simple model shows that insurance and adaptation can be either substitutes or complements, depending on the overlap in the shocks they protect against. We test this prediction in a randomized experiment across 300 flood-prone villages in West Bengal, where we provide farmers with free flood insurance and measure demand for flood-tolerant seeds. Insurance does not crowd-out adaptation, instead leading to modest crowd-in. Consistent with theory, crowd-in is largest for those who expected the least overlap between insurance and adaptation. Subsidized insurance can therefore complement private climate adaptation.
+<br/>
+<br/>
+
 ### Works in Progress
 
 + *Market Unraveling and Quality Control in Agriculture (with Manzoor Dar, Kyle Emerick, Davis Gimode, and Erin Kelley)* 
@@ -121,8 +130,6 @@ Pre-analysis plan accepted via pre-results review at *Journal of Development Eco
 + *Flight Risk or Reward? Returns to Credit Between Refugees and Locals (with Sylvan Herskowitz, Erin Kelley, and Reshmaan Hussam)*
 
 + *Online Marketplaces and Reducing Barriers for Small Firms (with Erin Kelley and Matthew Pecenco)*
-
-+ *Does subsidized insurance crowd out climate resilience? Experimental evidence from India (with Fiona Burlig, Manzoor H. Dar, Xavier Gin&#233;, and Erin Kelley)*
 
 <br/>
 <br/>
