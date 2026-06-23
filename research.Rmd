@@ -71,6 +71,9 @@ Employment may be an important source of wellbeing beyond its role as a source o
 The world’s 500 million smallholder farms are essential to the global economy, but face a fundamental challenge: farmers must commit to investment decisions before the weather – a key input to production – is realized. Farmers must therefore rely on their beliefs about inherently uncertain weather. In theory, a forecast that could align beliefs with actual realizations would enable farmers to improve their investments across multiple margins, but in practice, forecasts’ eﬀectiveness remains unknown. We use an RCT to document four new facts about farmer beliefs and forecasts. First, beliefs drive farmer behavior in the status quo. Second, farmers update their beliefs when given a high-quality, long-range forecast. Third, this forecast allows farmers to broadly re-optimize their investments, making adjustments both on and oﬀ the farm, which improves overall welfare. Fourth, farmer beliefs also impact their responses to a canonical agricultural policy instrument – insurance – underscoring the importance of aligning beliefs with realizations.
 
 *Pre-analysis plan accepted via pre-results review at Journal of Development Economics*
+
+*Revise and Resubmit, AEJ:Applied*
+
 <br/>
 <br/>
 
@@ -93,7 +96,7 @@ Road traffic accidents in poorly regulated public transit is a leading cause of 
 <br/>
 <br/>
 
-#### <em> [Getting Ahead of the Flood: Experimental Evidence on Anticipatory Action in Bangladesh and Nepal ](pdfs/Bangladesh_FBF_Working_Paper.pdf) </em> 
+#### <em> [Ready for the Flood: Experimental Evidence on Anticipatory Action in Bangladesh and Nepal ](pdfs/Bangladesh_FBF_Working_Paper.pdf) </em> 
 *(with Paul Christian, Felipe Dunsch, Jonas Heirman, Florence Kondylis, Erin Kelley, Jennifer Waidler, Nidhila Adusumalli, Odbayar Batmunkh and Kriti Malhotra)*
 
 *Abstract:*
