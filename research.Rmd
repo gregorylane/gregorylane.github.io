@@ -88,19 +88,21 @@ We study how job-seekers share information about jobs within their social networ
 <br/>
 <br/>
 
-#### <em> [The Value of Safe Driving: Evidence from Kenya's Public Transport Sector](pdfs/matatu_safety.pdf) </em> 
-*(with Erin Kelley and David Sch&ouml;nholzer)*
-
-*Abstract:*
-Road traffic accidents in poorly regulated public transit is a leading cause of death in low- and middle-income countries. We study how providing information about bus safety to passengers affects the demand and supply of safer public transit. We collect high-frequency measures of safe driving for five firms operating on one of the busiest long-range routes in Kenya, using a newly developed tracking device. We randomize private information to passengers about which firm is the safest choice. We then provide a public signal to both passengers and firms that buses are now being tracked. Treated passengers do not respond to private information at first, but after the introduction of the public signal they substitute strongly towards the safe firm, and some firms provide safer services. We rationalize these effects in a model of heterogeneous firms responding strategically to higher demand for safety due to the public signal. We derive welfare estimates of alternative equilibria, which imply that the welfare effects of information interventions crucially depend on the nature of the market equilibrium.
-<br/>
-<br/>
-
 #### <em> [Ready for the Flood: Experimental Evidence on Anticipatory Action in Bangladesh and Nepal ](pdfs/Bangladesh_FBF_Working_Paper.pdf) </em> 
 *(with Paul Christian, Felipe Dunsch, Jonas Heirman, Florence Kondylis, Erin Kelley, Jennifer Waidler, Nidhila Adusumalli, Odbayar Batmunkh and Kriti Malhotra)*
 
 *Abstract:*
 As increasingly frequent extreme weather events disrupt lives, institutions are turning to early-warning systems and advance preparation to accelerate aid delivery. Randomized controlled trials in Bangladesh and Nepal tested whether providing cash within days of a flood leads to greater benefits than delivering the same assistance months later - or if it simply shifts the timing of benefits without improving overall welfare. The results suggest that timely cash assistance leads to overall gains in food security and psychosocial wellbeing. This evidence supports efforts to anticipate crises and release disaster relief quickly.
+
+*Revise and Resubmit, American Economic Review*
+<br/>
+<br/>
+
+#### <em> [The Value of Safe Driving: Evidence from Kenya's Public Transport Sector](pdfs/matatu_safety.pdf) </em> 
+*(with Erin Kelley and David Sch&ouml;nholzer)*
+
+*Abstract:*
+Road traffic accidents in poorly regulated public transit is a leading cause of death in low- and middle-income countries. We study how providing information about bus safety to passengers affects the demand and supply of safer public transit. We collect high-frequency measures of safe driving for five firms operating on one of the busiest long-range routes in Kenya, using a newly developed tracking device. We randomize private information to passengers about which firm is the safest choice. We then provide a public signal to both passengers and firms that buses are now being tracked. Treated passengers do not respond to private information at first, but after the introduction of the public signal they substitute strongly towards the safe firm, and some firms provide safer services. We rationalize these effects in a model of heterogeneous firms responding strategically to higher demand for safety due to the public signal. We derive welfare estimates of alternative equilibria, which imply that the welfare effects of information interventions crucially depend on the nature of the market equilibrium.
 <br/>
 <br/>
 
