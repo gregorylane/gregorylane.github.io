@@ -1,0 +1,12 @@
+---
+title: "Office Hours"
+output: html_document
+---
+
+<div>
+
+<br/>
+
+## Book an Appointment
+
+Please [sign up for office hours](https://docs.google.com/spreadsheets/d/1-5GUvZ2OCmGJnpw3zy5aUw49RmRheyVKpV87ntWcaK4/edit?usp=sharing).

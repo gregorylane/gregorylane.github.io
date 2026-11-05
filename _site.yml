@@ -11,6 +11,8 @@ navbar:
       href: teaching.html
     - text: "CV"
       href: [pdfs/CV_Lane_April2025.pdf]
+    - text: "Office Hours"
+      href: office-hours.html
     - text: "Contact"
       href: contact.html
 
